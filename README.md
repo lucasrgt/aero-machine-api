@@ -124,6 +124,10 @@ Side config is a flat `int[24]` array: `index = side * 4 + type`
 
 See [DOC.md](DOC.md) for the full API reference, architecture diagrams, and integration examples.
 
+## Author
+
+**lucasrgt** — [aerocoding.dev](https://aerocoding.dev)
+
 ## License
 
 MIT
