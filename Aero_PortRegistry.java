@@ -9,6 +9,7 @@ public class Aero_PortRegistry {
     public static final int PORT_TYPE_ENERGY = 1;
     public static final int PORT_TYPE_FLUID = 2;
     public static final int PORT_TYPE_GAS = 3;
+    public static final int PORT_TYPE_ITEM = 4;
 
     public static final int PORT_MODE_INPUT = 1;
     public static final int PORT_MODE_OUTPUT = 2;
