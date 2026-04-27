@@ -2,8 +2,6 @@
 
 Tech mod infrastructure for Minecraft Beta 1.7.3 — standardized interfaces for energy, fluids, gases, side configuration, and multiblock ports.
 
-[![Demo](https://img.youtube.com/vi/ewJ0XgnOSHE/maxresdefault.jpg)](https://www.youtube.com/watch?v=ewJ0XgnOSHE)
-
 > **Compatibility:** Java 8 | Minecraft Beta 1.7.3 | RetroMCP | ModLoader / Forge 1.0.6
 
 ## Features
